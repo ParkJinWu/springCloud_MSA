@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/com.spring-cloud.client.first" />
+        <option name="gradleHome" value="/opt/homebrew/Cellar/gradle/8.9/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/com.spring-cloud.client.first" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/com.spring-cloud.client.second" />
+        <option name="gradleHome" value="/opt/homebrew/Cellar/gradle/8.9/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/com.spring-cloud.client.second" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/com.spring-cloud.erueka.client.order" />
+        <option name="gradleHome" value="/opt/homebrew/Cellar/gradle/8.9/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/com.spring-cloud.erueka.client.order" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/com.spring-cloud.eureka.client.auth" />
+        <option name="gradleHome" value="/opt/homebrew/Cellar/gradle/8.9/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/com.spring-cloud.eureka.client.auth" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/com.spring-cloud.eureka.client.config" />
+        <option name="gradleHome" value="/opt/homebrew/Cellar/gradle/8.9/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/com.spring-cloud.eureka.client.config" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/com.spring-cloud.eureka.client.gateway" />
+        <option name="gradleHome" value="/opt/homebrew/Cellar/gradle/8.9/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/com.spring-cloud.eureka.client.gateway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/com.spring-cloud.eureka.server" />
+        <option name="gradleHome" value="/opt/homebrew/Cellar/gradle/8.9/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/com.spring-cloud.eureka.server" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/product" />
+        <option name="gradleHome" value="/opt/homebrew/Cellar/gradle/8.9/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/product" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
